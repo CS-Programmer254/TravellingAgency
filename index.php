@@ -83,16 +83,16 @@
     </section>
    
    <section id="services" class="services">
-    <div>
+    <div class="service-section">
         <h2>Our Services</h2>
-        <span id="icons"class="material-symbols-outlined">handyman</span>
+        <span id="icons"class="material-symbols-outlined service-icon">handyman</span>
         <h3>Top Values For You</h3>
         <div class="service-boxes">
        
            
             <div class="service-box">
                <div class="span-group">
-               <span class="material-symbols-outlined">book_online</span>
+               <span class="material-symbols-outlined service-icon">book_online</span>
                 <span>Flight Reservation</span>
                </div>
                 <span><p>Lorem ipsum, dolor sit ame</p></span>
@@ -100,7 +100,7 @@
            
             <div class="service-box">
                 <div class="span-group">
-                <span class="material-symbols-outlined">hotel</span>
+                <span class="material-symbols-outlined service-icon">hotel</span>
                 <span>Hotel Booking</span>
                 </div>
               
@@ -108,7 +108,7 @@
             </div>
             <div class="service-box">
                 <div class="span-group">
-                <span class="material-symbols-outlined">directions_car</span>
+                <span class="material-symbols-outlined service-icon">directions_car</span>
              
                 <span>Car Hire</span>
                 </div>
@@ -121,7 +121,7 @@
    </section>
 
    <section class="destinations">
-    <h2 id="top-destinations">Explore Top Destination</h2>
+    <h2>Explore Top Destination</h2>
     <span id="icons"class="material-symbols-outlined">travel</span>
     <div class="destination-category">
         <button>Mombasa</button>
@@ -133,6 +133,12 @@
             <span class="destination-img"><img src="./images/diani.jpg"/></span>
             <span class="destination-description">
                 <h3>Diani Beach</h3>
+            </span>
+        </div>
+        <div class="destination-box">
+        <span class="destination-img"><img src="./images/ciala2.jpg"/></span>
+            <span class="destination-description">
+                <h3>Ciala Resort</h3>
             </span>
         </div>
         <div class="destination-box">
@@ -207,7 +213,6 @@
     </div>
 
    </section>
-</hr>
    <section class="footer-section">
    
    <footer class="footer-main-div">
@@ -249,7 +254,7 @@
 
     </div>
     <div class="footer-div-2">
-    <div class="copy-right"><h6>&copy;Ladel IT Consultants</h6></div>
+    <div class="copy-right"><h6>&copy; Developer Stanley Oduor 2023</h6></div>
 
     </div>
 
