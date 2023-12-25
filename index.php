@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="./responsive.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 </head>
 <body>
@@ -244,10 +245,10 @@
     <div>
         <h3 id="contact">Contact Us</h3>
         <div class="footer-list">
-            <div><span>Located:</span><span>Tom Mboya Estate,Off Jogoo Road</span></div>
-            <div><span>Email:</span><span>contactcentre@gmail.com</span></div>
+            <div><span>Located:</span><span>Tom Mboya Estate,Kisumu</span></div>
+            <div><span>Email:</span><span>stanleigh3oduor@gmail.com</span></div>
             <div><span>Tel:</span><span>+254769860886</span></div>
-            <div><span>Postal Address:</span><span>P.O.Box 847-401123</span></div>
+            <div><span>Postal Address:</span><span>P.O.Box 190-4100</span></div>
            
         </div>
     </div>
